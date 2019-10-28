@@ -1,5 +1,5 @@
-# Tech-Communities
-List of the amazing Technical Communities groups in India
+#Communities
+List of the amazing Communities groups in India
 
 ## Locations
 - [DelhiNCR](#round_pushpin-delhincr)
