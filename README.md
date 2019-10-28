@@ -1,4 +1,4 @@
-#Communities
+## Communities
 List of the amazing Communities groups in India
 
 ## Locations
