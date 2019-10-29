@@ -21,7 +21,8 @@ List of the amazing Technical Communities groups in India
 - [Surat](#round_pushpin-Surat)
 
 ## :round_pushpin: DelhiNCR
-| Community Name | website | Type of Community  | Communication Channel | 
+| Community Name | website | Type of Community  | Communication Channel |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Mumbai
 | Community Name | website | Type of Community  | Communication Channel | 
