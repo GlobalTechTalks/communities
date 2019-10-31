@@ -35,6 +35,7 @@ List of the amazing Communities groups in India
 | GlobalTechTalk | [TechTalks](https://techtalk.co.in) | opensource | [Telegram](https://t.me/globaltechtalks) | [@globaltechtalks](https://www.facebook.com/GlobalTechTalks) |
 | GDG New Delhi | [GDG New Delhi](https://commudle.com/gdg-new-delhi) | Developer | - | [@gdgnewdelhi](https://www.facebook.com/gdgnewdelhi) |
 | Women Who Code Delhi | [Women Who Code Delhi](https://www.womenwhocode.com/delhi) | Developer | [Slack]() | [@womenwhocodedelhi](https://www.facebook.com/womenwhocodedelhi) |
+| Hackr Bootcamp | [Hackr.io](https://hackr.io/) | - | - | [@hackr.io](https://www.facebook.com/hackr.io) |
 | PyDelhi | [PyDelhi](http://pydelhi.org/) | Developer | Telegram | [@pydelhi](https://www.facebook.com/pydelhi) |
 | GDG Cloud New Delhi | [GDG Cloud New Delhi](https://commudle.com/gcdc-new-delhi) | Cloud | - | [@gdgcloudnd](https://www.facebook.com/gdgcloudnd/) |
 | LinuxChix India | [LinuxChix India](http://india.linuxchix.org/) | Linux | - | [@linuxchixin](https://www.facebook.com/linuxchixin/) |  
