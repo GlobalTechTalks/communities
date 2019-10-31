@@ -148,11 +148,13 @@ List of the amazing Communities groups in India
 ## :round_pushpin: Jaipur
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
-| ------ | ------ | ------ | ------ | ------ |
+| PyJaipur | http://pyjaipur.github.io | Developer | https://t.me/pyjaipur | [Linkedin](https://in.linkedin.com/company/pyjaipur) |
+| Mozilla rajasthan | http://mozillaraj.github.io | Developer | https://t.me/mozillarajasthan | [Linkedin](https://www.linkedin.com/company/mozillaraj) |
+
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
-| ------ | ------ | ------ | ------ | ------ | ------ |
+| DSC JU | JECRC University | ------ | Developer | Whatsapp | [Linkedin](https://www.linkedin.com/company/dsc-ju) |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Bhopal
