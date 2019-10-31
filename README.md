@@ -32,7 +32,9 @@ List of the amazing Communities groups in India
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ |
- LaravelLive Delhi | [laravelLiveDelhi.in](https://laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) 
+| GlobalTechTalk | [TechTalks](https://techtalk.co.in) | opensource | [Telegram](https://t.me/globaltechtalks) | [@globaltechtalks](https://www.facebook.com/GlobalTechTalks) |
+| GDG New Delhi | [GDG New Delhi](https://commudle.com/gdg-new-delhi) | Developer | - | [@gdgnewdelhi](https://www.facebook.com/gdgnewdelhi) |
+| LaravelLive Delhi | [laravelLiveDelhi.in](https://laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) |
 
 
 
