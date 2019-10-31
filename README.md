@@ -195,5 +195,5 @@ List of the amazing Technical Communities groups in India
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
