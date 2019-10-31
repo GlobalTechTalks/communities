@@ -50,6 +50,11 @@ List of the amazing Communities groups in India
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | DSC Amity Noida | Amity Noida | - | Developer | [Commudle](https://commudle.com/dsc-amity) | - |
+| DSC GTBIT | GTBIT | - | Developer | [Commudle](https://commudle.com/dsc-gtbit) | - |
+| DSC BVP | BVP | - | Developer | [Commudle](https://commudle.com/dsc-bvp) | - |
+| DSC DCE | DCE | - | Developer | [Commudle](https://commudle.com/dsc-dce) | - |
+| DSC MRIIRS | MRIIRS | - | Developer | [Commudle](https://commudle.com/dsc-mriirs) | - |
+
 
 
 ## :round_pushpin: Mumbai
