@@ -32,6 +32,9 @@ List of the amazing Communities groups in India
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ |
+ LaravelLive Delhi | [laravelLiveDelhi.in](laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) 
+
+
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
