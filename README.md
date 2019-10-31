@@ -20,124 +20,180 @@ List of the amazing Communities groups in India
 - [Vellore](#round_pushpin-Vellore)
 - [Surat](#round_pushpin-Surat)
 
-## :round_pushpin: DelhiNCR
+- Communities name - Name of the Communitiy
+- Website - Website link (if you have)
+- Type of community - For developer/designer/Cyber Security/DevOps/Mobile/
+- Group link - Meetup/commudle/Facebook/others
+- Social Media links - Facebook/twitter/LinkedIn/others
+- Communication Channel link - WhatsApp/Telegram/Slack/Facebook/Others
+- College Name - Name of College/Institute/University
 
-##Open Communities
-| Community Name | website | Type of Community  | Communication Channel |
+## :round_pushpin: DelhiNCR
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Mumbai
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Pune
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Bangalore
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Hyderabad
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Ahemdabad
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Coimbatore
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Chennai
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Kolkata
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Chandigarh
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Indore
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Jaipur
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Bhopal
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Bikaner
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Nagpur
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Vellore
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Surat
-| Community Name | website | Type of Community  | Communication Channel | 
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
-| Community Name | website | Type of Community  | Communication Channel |
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
