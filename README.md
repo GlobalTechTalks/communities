@@ -61,11 +61,12 @@ List of the amazing Communities groups in India
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ |
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Pune
 ## Open Communities
@@ -85,7 +86,7 @@ List of the amazing Communities groups in India
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Hyderabad
 ## Open Communities
