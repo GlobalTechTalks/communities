@@ -35,7 +35,7 @@ List of the amazing Communities groups in India
 | GlobalTechTalk | [TechTalks](https://techtalk.co.in) | opensource | [Telegram](https://t.me/globaltechtalks) | [@globaltechtalks](https://www.facebook.com/GlobalTechTalks) |
 | GDG New Delhi | [GDG New Delhi](https://commudle.com/gdg-new-delhi) | Developer | - | [@gdgnewdelhi](https://www.facebook.com/gdgnewdelhi) |
 | Women Who Code Delhi | [Women Who Code Delhi](https://www.womenwhocode.com/delhi) | Developer | [Slack]() | [@womenwhocodedelhi](https://www.facebook.com/womenwhocodedelhi) |
-| PyDelhi | [PyDelhi](http://pydelhi.org/) | Developer | - | [@pydelhi](https://www.facebook.com/pydelhi) |
+| PyDelhi | [PyDelhi](http://pydelhi.org/) | Developer | Telegram | [@pydelhi](https://www.facebook.com/pydelhi) |
 | WTM New Delhi | [WTM New Delhi](https://commudle.com/wtm-new-delhi) | Developer | - | [@googlewomentechmakersdelhi](https://www.facebook.com/googlewomentechmakersdelhi/) |
 | Design Jungle | [Design Jungle](https://commudle.com/design-jungle) | Design | - | [@DesignsJungle](https://www.facebook.com/DesignsJungle/) |
 | LaravelLive Delhi | [laravelLiveDelhi.in](https://laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) |
@@ -45,7 +45,7 @@ List of the amazing Communities groups in India
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ |
+| DSC Amity Noida | Amity Noida | - | Developer | [Commudle](https://commudle.com/dsc-amity) | - |
 
 ## :round_pushpin: Mumbai
 ## Open Communities
@@ -151,6 +151,7 @@ List of the amazing Communities groups in India
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ |
+| GlobalTechTalk Jaipur | [TechTalks](https://techtalk.co.in) | opensource | [Telegram](https://t.me/globaltechtalks) | [@globaltechtalks](https://www.facebook.com/GlobalTechTalks) |
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
