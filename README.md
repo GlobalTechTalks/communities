@@ -150,7 +150,7 @@ List of the amazing Communities groups in India
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
-| DSC JU | JECRC University | ------ | Developer | Whatsapp | [Linkedin](https://www.linkedin.com/company/dsc-ju) |
+| DSC JU | JECRC University | ------ | Developer | [Whatsapp](https://chat.whatsapp.com/DsuO7MqkfL9CZ8cdSzOZa8) | [Linkedin](https://www.linkedin.com/company/dsc-ju) |
 | ------ | ------ | ------ | ------ | ------ |
 
 ## :round_pushpin: Bhopal
