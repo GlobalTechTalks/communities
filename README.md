@@ -55,7 +55,7 @@ List of the amazing Communities groups in India
 | DSC BVP | BVP | - | Developer | [Commudle](https://commudle.com/dsc-bvp) | - |
 | DSC DCE | DCE | - | Developer | [Commudle](https://commudle.com/dsc-dce) | - |
 | DSC MRIIRS | MRIIRS | - | Developer | [Commudle](https://commudle.com/dsc-mriirs) | - |
-| HASH DEFINE BPIT | BPIT | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/) |GLUG MVIT | SIR MVIT | https://www.glugmvit.com/ | Developer | - | https://www.instagram.com/glugmvit/ |
+| HASH DEFINE BPIT | BPIT | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/) |
 
 
 
