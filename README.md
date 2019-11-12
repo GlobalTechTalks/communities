@@ -45,8 +45,7 @@ List of the amazing Communities groups in India
 | LaravelLive Delhi | [laravelLiveDelhi.in](https://laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) |
 | R-Ladies Delhi | [R-Ladies Delhi](https://www.meetup.com/rladies-new-delhi/) | Developer | - | [@R-Ladies](https://www.facebook.com/RLadies-Delhi-111066293606859/)|
 | HASH DEFINE | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/)|
-| GLUG MVIT | [glugmvit](https://www.glugmvit.com/) | DEVELOPER | [codeshack](https://t.me/codeshack) | [glugmvit](https://www.instagram.com/glugmvit/) | 
-
+| GLUG MVIT | [glugmvit](https://www.glugmvit.com/) | DEVELOPER | [codeshack](https://t.me/codeshack) | [Instagram](https://www.instagram.com/glugmvit/)|
 
 
 ## College Societies
