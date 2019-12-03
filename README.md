@@ -40,11 +40,12 @@ List of the amazing Communities groups in India
 | GDG Cloud New Delhi | [GDG Cloud New Delhi](https://commudle.com/gcdc-new-delhi) | Cloud | - | [@gdgcloudnd](https://www.facebook.com/gdgcloudnd/) |
 | LinuxChix India | [LinuxChix India](http://india.linuxchix.org/) | Linux | - | [@linuxchixin](https://www.facebook.com/linuxchixin/) |  
 | WTM New Delhi | [WTM New Delhi](https://commudle.com/wtm-new-delhi) | Developer | - | [@googlewomentechmakersdelhi](https://www.facebook.com/googlewomentechmakersdelhi/) |
-| Script Foundation India | - | developer | - | - |
+| Script Foundation Delhi NCR | - | Developer | [Telegram](https://t.me/scriptdelhincr) | - |
 | Design Jungle | [Design Jungle](https://commudle.com/design-jungle) | Design | - | [@DesignsJungle](https://www.facebook.com/DesignsJungle/) |
 | LaravelLive Delhi | [laravelLiveDelhi.in](https://laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) |
 | R-Ladies Delhi | [R-Ladies Delhi](https://www.meetup.com/rladies-new-delhi/) | Developer | - | [@R-Ladies](https://www.facebook.com/RLadies-Delhi-111066293606859/)|
 | HASH DEFINE | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/)|
+| Ddabble Community | [Ddabble](https://ddabble-community.github.io/) | Blockchain | [Telegram](https://t.me/joinchat/M_yNFhWy9dn5BeSjMksyVw) | [@DdabbleC](https://twitter.com/DdabbleC)|
 
 
 ## College Societies
@@ -56,6 +57,7 @@ List of the amazing Communities groups in India
 | DSC DCE | DCE | - | Developer | [Commudle](https://commudle.com/dsc-dce) | - |
 | DSC MRIIRS | MRIIRS | - | Developer | [Commudle](https://commudle.com/dsc-mriirs) | - |
 | HASH DEFINE BPIT | BPIT | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/) |
+| Amity Microsoft Tech Club | Amity Noida | [AMTC](https://www.amityclubs.com/amtc) | Developer | - | [AMTC](https://www.facebook.com/amtcnoida/) |
 
 
 
