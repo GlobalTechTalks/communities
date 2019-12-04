@@ -60,8 +60,6 @@ List of the amazing Communities groups in India
 | Amity Microsoft Tech Club | Amity Noida | [AMTC](https://www.amityclubs.com/amtc) | Developer | - | [AMTC](https://www.facebook.com/amtcnoida/) |
 
 
-
-
 ## :round_pushpin: Mumbai
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
@@ -71,7 +69,8 @@ List of the amazing Communities groups in India
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ | ------ |
+|DSC SIESGST| SIESGST | - | Developer | - | [DSC SIESGST](https://www.instagram.com/dscsiesgst/) |
+
 
 ## :round_pushpin: Pune
 ## Open Communities
