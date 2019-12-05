@@ -58,7 +58,7 @@ List of the amazing Communities groups in India
 | DSC MRIIRS | MRIIRS | - | Developer | [Commudle](https://commudle.com/dsc-mriirs) | - |
 | HASH DEFINE BPIT | BPIT | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/) |
 | Amity Microsoft Tech Club | Amity Noida | [AMTC](https://www.amityclubs.com/amtc) | Developer | - | [AMTC](https://www.facebook.com/amtcnoida/) |
-| DSC KIET | KIET Group of Institutions | [DSC KIET](https://dsckiet.tech) | Developer | [Commudle](https://commudle.com/dsc-kiet) | [@dsckiet](https://twitter.com/dsckiet) |
+| DSC KIET | KIET Group of Institutions | [DSC KIET](http://dsckiet.tech) | Developer | [Commudle](https://commudle.com/dsc-kiet) | [@dsckiet](https://twitter.com/dsckiet) |
 
 
 
