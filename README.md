@@ -61,8 +61,6 @@ List of the amazing Communities groups in India
 | DSC KIET | KIET Group of Institutions | [DSC KIET](http://dsckiet.tech) | Developer | [Commudle](https://commudle.com/dsc-kiet) | [@dsckiet](https://twitter.com/dsckiet) |
 
 
-
-
 ## :round_pushpin: Mumbai
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
@@ -72,7 +70,8 @@ List of the amazing Communities groups in India
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ | ------ |
+|DSC SIESGST| SIESGST | - | Developer | - | [DSC SIESGST](https://www.instagram.com/dscsiesgst/) |
+
 
 ## :round_pushpin: Pune
 ## Open Communities
