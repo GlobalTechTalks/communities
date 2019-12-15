@@ -59,6 +59,7 @@ List of the amazing Communities groups in India
 | HASH DEFINE BPIT | BPIT | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/) |
 | Amity Microsoft Tech Club | Amity Noida | [AMTC](https://www.amityclubs.com/amtc) | Developer | - | [AMTC](https://www.facebook.com/amtcnoida/) |
 | DSC KIET | KIET Group of Institutions | [DSC KIET](http://dsckiet.tech) | Developer | [Commudle](https://commudle.com/dsc-kiet) | [@dsckiet](https://twitter.com/dsckiet) |
+| ACM KCCITM | KCC Institute of Technology and Management | [ACM KCCITM](http://kccitm.acm.org/) | Developer | - | [@Acmkccitm](https://twitter.com/Acmkccitm?s=20) |
 
 
 ## :round_pushpin: Mumbai
