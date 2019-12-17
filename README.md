@@ -112,6 +112,7 @@ List of the amazing Communities groups in India
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Open Student Community Vizag | Vignan's Institute of information Technology | [OSCVizag](https://oscvizag.github.io/) | Developer | [](https://oscvizag.github.io/github/) | [Instagram](https://instagram.com/open_student_community) |
 
 ## :round_pushpin: Ahemdabad
