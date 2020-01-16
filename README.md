@@ -7,6 +7,7 @@ List of the amazing Communities groups in India
 - [Pune](#round_pushpin-pune)
 - [Bangalore](#round_pushpin-bangalore)
 - [Hyderabad](#round_pushpin-hyderabad)
+- [Visakhapanam](#round_pushpin-Visakhapanam)
 - [Ahemdabad](#round_pushpin-ahemdabad)
 - [Coimbatore](#round_pushpin-coimbatore)
 - [Chennai](#round_pushpin-Chennai)
@@ -102,6 +103,17 @@ List of the amazing Communities groups in India
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | ------ | ------ | ------ | ------ | ------ |
+
+## :round_pushpin: Visakhapanam
+## Open Communities
+| Community Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ |
+
+
+## College Societies
+| Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Open Student Community Vizag | Vignan's Institute of information Technology | [OSCVizag](https://oscvizag.github.io/) | Developer | [](https://oscvizag.github.io/github/) | [Instagram](https://instagram.com/open_student_community) |
 
 ## :round_pushpin: Ahemdabad
 ## Open Communities
