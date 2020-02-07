@@ -124,7 +124,7 @@ List of the amazing Communities groups in India
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ |
+| IIITV-CC | IIIT Vadodara | ------ | Developer | [Slack](iiitvadodara.slack.com) | [Facebook](https://fb.me/iiitv-cc) |
 
 ## :round_pushpin: Coimbatore
 ## Open Communities
